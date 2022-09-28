@@ -1,0 +1,4 @@
+###### Requirements ######
+selenium
+tk
+webdriver-manager
